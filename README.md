@@ -1,4 +1,4 @@
-# Exercicio
+# Exercicio 01
 Imagine que você é um desenvolvedor de uma corretora de valores e precisa desenvolver um programa.
 
 Para isso, você recebeu as informações da empresa para lhe dar subsídios para desenvolver o seu pseudocódigo. Leia atentamente as informações a seguir.
